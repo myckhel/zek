@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Compilation Theory**
 
-- 🎸 Playing **Guitar & Flute**. 
+- 🎸 Playing **Guitar & Flute**
 
 - 📫 How to reach me **drtzack@gmail.com**
 
