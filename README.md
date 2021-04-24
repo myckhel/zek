@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Zekeriya Durmuş</h1>
-<h3 align="center">A self-learner, computer engineer</h3>
+<h1 align="center">Hi 👋, I'm Michael Ishola</h1>
+<h3 align="center">A Software Developer, Aspirant Game Developer/h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zek" alt="zek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myckhel" alt="myckhel" /> </p>
 
-- 🌱 I’m currently learning/working on **VOIP, SIP, WEBRTC, FreeSwitch**
+- 🌱 I’m currently learning/working on **Redis, Swift**
 
-- 🥇 First Place in **2013 National Science Fair in Computer Science**
+- 💬 Ask me about **Laravel**
 
-- 🏆 Contestant in **European Union Contest for Young Scientists**
+- 🎸 Playing **Football**
 
-- 💬 Ask me about **Compilation Theory**
-
-- 🎸 Playing **Guitar & Flute**
-
-- 📫 How to reach me **drtzack@gmail.com**
+- 📫 How to reach me **[myckhel.com](https://myckhel.com)**
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -26,8 +22,8 @@
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zek&layout=compact&hide=html&theme=dracula&count_private=true" alt="zek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zek&show_icons=true&theme=dracula&count_private=true" alt="zek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myckhel&show_icons=true&theme=dracula&count_private=true" alt="myckhel" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/talhazekeriyadurmus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="talhazekeriyadurmus" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/myckhel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="talhazekeriyadurmus" height="30" width="30" /></a>
 </p>
